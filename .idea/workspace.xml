@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3bd415-0a34-4101-8881-ddd48c5c2991" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="zloadmin-settings.dat" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sessions/zloadmin/zloadmin-settings.dat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>feed_view_info</find>
+      <find>var_d</find>
+      <find>var_dump</find>
+      <find>phone_id</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Instagram.php" />
+        <option value="$PROJECT_DIR$/src/ExtendInstagram.php" />
+        <option value="$PROJECT_DIR$/examples/getStory.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="inst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inst" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="inst" type="b2602c69:ProjectViewProjectNode" />
+              <item name="inst" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sessions" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sessions" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be3bd415-0a34-4101-8881-ddd48c5c2991" name="Default" comment="" />
+      <created>1534337869592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534337869592</updated>
+      <workItem from="1534337870790" duration="474000" />
+      <workItem from="1534415033369" duration="4877000" />
+      <workItem from="1534433255499" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5380000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4475" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sessions/zloadmin/zloadmin-settings.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Request/Internal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44950">
+          <caret line="921" column="20" lean-forward="false" selection-start-line="921" selection-start-column="20" selection-end-line="921" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Request/Internal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="921" column="20" lean-forward="false" selection-start-line="921" selection-start-column="20" selection-end-line="921" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Instagram.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="785" column="0" lean-forward="false" selection-start-line="785" selection-start-column="0" selection-end-line="785" selection-end-column="0" />
+          <folding>
+            <marker date="1534416112151" expanded="true" signature="35:701" ph=" Instagram's Private API v5. ..." />
+            <marker date="1534416112151" expanded="true" signature="751:49027" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="761:834" ph=" Experiments refresh interval in sec. ..." />
+            <marker date="1534416112151" expanded="true" signature="883:959" ph=" Currently active Instagram username. ..." />
+            <marker date="1534416112151" expanded="true" signature="992:1068" ph=" Currently active Instagram password. ..." />
+            <marker date="1534416112151" expanded="true" signature="1101:1221" ph=" The Android device for the currently active user. ..." />
+            <marker date="1534416112151" expanded="true" signature="1252:1330" ph=" Toggles API query/response debug output. ..." />
+            <marker date="1534416112151" expanded="true" signature="1360:1447" ph=" Toggles truncating long responses when debugging. ..." />
+            <marker date="1534416112151" expanded="true" signature="1486:1936" ph=" For internal use by Instagram-API developers! ..." />
+            <marker date="1534416112151" expanded="true" signature="1986:2551" ph=" Global flag for users who want to run the library incorrectly online. ..." />
+            <marker date="1534416112151" expanded="true" signature="2624:2669" ph=" UUID. ..." />
+            <marker date="1534416112151" expanded="true" signature="2698:3014" ph=" Google Play Advertising ID. ..." />
+            <marker date="1534416112151" expanded="true" signature="3053:3103" ph=" Device ID. ..." />
+            <marker date="1534416112151" expanded="true" signature="3137:3186" ph=" Phone ID. ..." />
+            <marker date="1534416112151" expanded="true" signature="3219:3306" ph=" Numerical UserPK ID of the active user account. ..." />
+            <marker date="1534416112151" expanded="true" signature="3341:4292" ph=" Our current guess about the session status. ..." />
+            <marker date="1534416112151" expanded="true" signature="4340:4419" ph=" Raw API communication/networking class. ..." />
+            <marker date="1534416112151" expanded="true" signature="4450:4555" ph=" The account settings storage. ..." />
+            <marker date="1534416112151" expanded="true" signature="4588:4828" ph=" The current application session ID. ..." />
+            <marker date="1534416112151" expanded="true" signature="4863:4953" ph=" A list of experiments enabled on per-account basis. ..." />
+            <marker date="1534416112151" expanded="true" signature="6591:6960" ph=" Constructor. ..." />
+            <marker date="1534416112151" expanded="true" signature="7087:11486" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="7102:7482" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="7587:8641" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="7600:8061" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="8652:9040" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="9108:9281" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="9395:9678" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="9439:9668" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="9516:9652" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="10877:11402" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="10919:11392" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="11223:11377" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="11282:11359" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="11495:11946" ph=" Controls the SSL verification behavior of the Client. ..." />
+            <marker date="1534416112151" expanded="true" signature="11998:12055" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="12064:12169" ph=" Gets the current SSL verification behavior of the Client. ..." />
+            <marker date="1534416112151" expanded="true" signature="12206:12264" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="12273:12609" ph=" Set the proxy to use for requests. ..." />
+            <marker date="1534416112151" expanded="true" signature="12657:12710" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="12719:12814" ph=" Gets the current proxy used for requests. ..." />
+            <marker date="1534416112151" expanded="true" signature="12847:12901" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="12910:13370" ph=" Sets the network interface override to use. ..." />
+            <marker date="1534416112151" expanded="true" signature="13428:13491" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="13500:13610" ph=" Gets the current network interface override used for requests. ..." />
+            <marker date="1534416112151" expanded="true" signature="13653:13717" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="13726:16075" ph=" Login to Instagram or automatically resume and refresh previous session. ..." />
+            <marker date="1534416112151" expanded="true" signature="16178:16438" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="16236:16350" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="16447:17214" ph=" Internal login handler. ..." />
+            <marker date="1534416112151" expanded="true" signature="17350:19534" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="17408:17523" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="17682:17742" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="17846:19301" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="17905:18564" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18040:18067" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18099:18138" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18170:18197" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18229:18258" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18290:18309" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18341:18370" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18402:18429" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18461:18485" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18521:18549" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18621:19068" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18706:18922" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="18930:19054" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="19543:20539" ph=" Finish a two-factor authenticated login. ..." />
+            <marker date="1534416112151" expanded="true" signature="20714:22523" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="20772:20901" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="20973:21124" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="21135:21604" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="21682:21742" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="21973:21978" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22002:22040" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22064:22109" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22133:22172" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22196:22223" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22247:22276" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22300:22327" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22355:22383" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="22532:23302" ph=" Request a new security code SMS for a Two Factor login account. ..." />
+            <marker date="1534416112151" expanded="true" signature="23415:24836" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="23473:23603" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="23647:23777" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="23788:24245" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="24323:24383" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24482:24487" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24511:24556" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24580:24601" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24625:24654" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24678:24697" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24721:24760" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24788:24828" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="24845:25515" ph=" Request information about available password recovery methods for an account. ..." />
+            <marker date="1534416112151" expanded="true" signature="25568:26147" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="25782:25787" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="25811:25825" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="25849:25873" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="25897:25918" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="25942:25971" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="25995:26014" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="26038:26077" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="26105:26139" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="26156:26669" ph=" Request a recovery EMAIL to get back into your account. ..." />
+            <marker date="1534416112151" expanded="true" signature="26729:27483" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="26898:27059" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27157:27162" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27186:27204" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27228:27257" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27281:27310" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27334:27353" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27377:27416" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27444:27475" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="27492:28003" ph=" Request a recovery SMS to get back into your account. ..." />
+            <marker date="1534416112151" expanded="true" signature="28061:28680" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="28262:28420" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="28503:28508" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="28532:28550" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="28574:28613" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="28641:28672" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="28689:29057" ph=" Set the active account for the class instance. ..." />
+            <marker date="1534416112151" expanded="true" signature="29130:33775" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="29188:29305" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="30081:30614" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="30947:31845" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="31856:32216" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="32277:32370" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="32428:32517" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="33175:33295" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="33303:33394" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="33405:33702" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="33784:34969" ph=" Set the active account for the class instance, without knowing password. ..." />
+            <marker date="1534416112151" expanded="true" signature="35038:35942" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="35101:35191" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="35202:35827" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="35872:35935" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="35951:36197" ph=" Updates the internal state after a successful login. ..." />
+            <marker date="1534416112151" expanded="true" signature="36283:36890" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="36544:36661" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="36899:37049" ph=" Sends pre-login flow. This is required to emulate real device behavior. ..." />
+            <marker date="1534416112151" expanded="true" signature="37094:37817" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="37826:37896" ph=" Registers available Push channels during the login flow. ..." />
+            <marker date="1534416112151" expanded="true" signature="37945:39299" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="38176:38261" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38286:38330" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38405:38603" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38423:38492" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38517:38572" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38663:38733" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38758:38798" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="38834:38863" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="39026:39090" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="39115:39292" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="39133:39202" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="39227:39282" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="39308:40172" ph=" Sends login flow. This is required to emulate real device behavior. ..." />
+            <marker date="1534416112151" expanded="true" signature="40272:46401" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="40349:40477" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="40521:40689" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="40700:41624" ph="//..." />
+            <marker date="1534416112151" expanded="true" signature="41653:43293" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="42827:42895" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="43301:46126" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="43662:43842" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="43712:43827" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="43719:43826" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="43903:44173" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="44355:45306" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="45648:45769" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="45943:46116" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="46410:47014" ph=" Log out of Instagram. ..." />
+            <marker date="1534416112151" expanded="true" signature="47045:47691" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="47129:47156" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47180:47219" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47243:47262" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47286:47315" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47339:47359" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47387:47416" ph="..." />
+            <marker date="1534416112151" expanded="true" signature="47700:47896" ph=" Checks if a parameter is enabled in the given experiment. ..." />
+            <marker date="1534416112151" expanded="true" signature="48002:48190" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="48199:48386" ph=" Get a parameter value for the given experiment. ..." />
+            <marker date="1534416112151" expanded="true" signature="48490:48642" ph="{...}" />
+            <marker date="1534416112151" expanded="true" signature="48651:48927" ph=" Create a custom API request. ..." />
+            <marker date="1534416112151" expanded="true" signature="48972:49025" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Devices/GoodDevices.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="122" column="76" lean-forward="true" selection-start-line="122" selection-start-column="8" selection-end-line="122" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="11" column="10" lean-forward="false" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <marker date="1534161918000" expanded="true" signature="47:35454" ph="{...}" />
+            <marker date="1534161918000" expanded="true" signature="99:200" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="33789:34361" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="33799:34041" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="34053:34138" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="34150:34245" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="34257:34354" ph="..." />
+            <marker date="1534161918000" expanded="true" signature="35093:35126" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Signatures.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-286">
+          <caret line="93" column="27" lean-forward="false" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/zloadmin/zloadmin-cookies.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Devices/Device.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2713">
+          <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Devices/DeviceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/zloadmin_щдв/zloadmin-cookies.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExtendInstagram.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="743" column="31" lean-forward="false" selection-start-line="743" selection-start-column="23" selection-end-line="743" selection-end-column="31" />
+          <folding>
+            <marker date="1534416335406" expanded="true" signature="35:701" ph=" Instagram's Private API v5. ..." />
+            <marker date="1534416335406" expanded="true" signature="743:49097" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="753:826" ph=" Experiments refresh interval in sec. ..." />
+            <marker date="1534416335406" expanded="true" signature="875:951" ph=" Currently active Instagram username. ..." />
+            <marker date="1534416335406" expanded="true" signature="984:1060" ph=" Currently active Instagram password. ..." />
+            <marker date="1534416335406" expanded="true" signature="1093:1213" ph=" The Android device for the currently active user. ..." />
+            <marker date="1534416335406" expanded="true" signature="1244:1322" ph=" Toggles API query/response debug output. ..." />
+            <marker date="1534416335406" expanded="true" signature="1352:1439" ph=" Toggles truncating long responses when debugging. ..." />
+            <marker date="1534416335406" expanded="true" signature="1478:1928" ph=" For internal use by Instagram-API developers! ..." />
+            <marker date="1534416335406" expanded="true" signature="1978:2543" ph=" Global flag for users who want to run the library incorrectly online. ..." />
+            <marker date="1534416335406" expanded="true" signature="2616:2661" ph=" UUID. ..." />
+            <marker date="1534416335406" expanded="true" signature="2690:3006" ph=" Google Play Advertising ID. ..." />
+            <marker date="1534416335406" expanded="true" signature="3045:3095" ph=" Device ID. ..." />
+            <marker date="1534416335406" expanded="true" signature="3129:3178" ph=" Phone ID. ..." />
+            <marker date="1534416335406" expanded="true" signature="3211:3298" ph=" Numerical UserPK ID of the active user account. ..." />
+            <marker date="1534416335406" expanded="true" signature="3333:4284" ph=" Our current guess about the session status. ..." />
+            <marker date="1534416335406" expanded="true" signature="4332:4411" ph=" Raw API communication/networking class. ..." />
+            <marker date="1534416335406" expanded="true" signature="4442:4547" ph=" The account settings storage. ..." />
+            <marker date="1534416335406" expanded="true" signature="4580:4820" ph=" The current application session ID. ..." />
+            <marker date="1534416335406" expanded="true" signature="4855:4945" ph=" A list of experiments enabled on per-account basis. ..." />
+            <marker date="1534416335406" expanded="true" signature="6583:6952" ph=" Constructor. ..." />
+            <marker date="1534416335406" expanded="true" signature="7079:11478" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="7094:7474" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="7579:8633" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="7592:8053" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="8644:9032" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="9100:9273" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="9387:9670" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="9431:9660" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="9508:9644" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="10869:11394" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="10911:11384" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="11215:11369" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="11274:11351" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="11487:11938" ph=" Controls the SSL verification behavior of the Client. ..." />
+            <marker date="1534416335406" expanded="true" signature="11990:12047" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="12056:12161" ph=" Gets the current SSL verification behavior of the Client. ..." />
+            <marker date="1534416335406" expanded="true" signature="12198:12256" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="12265:12601" ph=" Set the proxy to use for requests. ..." />
+            <marker date="1534416335406" expanded="true" signature="12649:12702" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="12711:12806" ph=" Gets the current proxy used for requests. ..." />
+            <marker date="1534416335406" expanded="true" signature="12839:12893" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="12902:13362" ph=" Sets the network interface override to use. ..." />
+            <marker date="1534416335406" expanded="true" signature="13420:13483" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="13492:13602" ph=" Gets the current network interface override used for requests. ..." />
+            <marker date="1534416335406" expanded="true" signature="13645:13709" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="13718:16067" ph=" Login to Instagram or automatically resume and refresh previous session. ..." />
+            <marker date="1534416335406" expanded="true" signature="16170:16430" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="16228:16342" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="16439:17206" ph=" Internal login handler. ..." />
+            <marker date="1534416335406" expanded="true" signature="17342:19526" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="17400:17515" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="17674:17734" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="17838:19293" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="17897:18556" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18032:18059" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18091:18130" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18162:18189" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18221:18250" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18282:18301" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18333:18362" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18394:18421" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18453:18477" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18513:18541" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18613:19060" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18698:18914" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="18922:19046" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="19535:20531" ph=" Finish a two-factor authenticated login. ..." />
+            <marker date="1534416335406" expanded="true" signature="20706:22515" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="20764:20893" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="20965:21116" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="21127:21596" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="21674:21734" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="21965:21970" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="21994:22032" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22056:22101" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22125:22164" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22188:22215" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22239:22268" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22292:22319" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22347:22375" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="22524:23294" ph=" Request a new security code SMS for a Two Factor login account. ..." />
+            <marker date="1534416335406" expanded="true" signature="23407:24828" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="23465:23595" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="23639:23769" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="23780:24237" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="24315:24375" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24474:24479" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24503:24548" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24572:24593" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24617:24646" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24670:24689" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24713:24752" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24780:24820" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="24837:25507" ph=" Request information about available password recovery methods for an account. ..." />
+            <marker date="1534416335406" expanded="true" signature="25560:26139" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="25774:25779" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="25803:25817" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="25841:25865" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="25889:25910" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="25934:25963" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="25987:26006" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="26030:26069" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="26097:26131" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="26148:26661" ph=" Request a recovery EMAIL to get back into your account. ..." />
+            <marker date="1534416335406" expanded="true" signature="26721:27475" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="26890:27051" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27149:27154" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27178:27196" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27220:27249" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27273:27302" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27326:27345" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27369:27408" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27436:27467" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="27484:27995" ph=" Request a recovery SMS to get back into your account. ..." />
+            <marker date="1534416335406" expanded="true" signature="28053:28672" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="28254:28412" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="28495:28500" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="28524:28542" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="28566:28605" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="28633:28664" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="28681:29049" ph=" Set the active account for the class instance. ..." />
+            <marker date="1534416335406" expanded="true" signature="29122:33845" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="29180:29297" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="30073:30606" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="30940:31915" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="31926:32286" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="32347:32440" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="32498:32587" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="33245:33365" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="33373:33464" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="33475:33772" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="33854:35039" ph=" Set the active account for the class instance, without knowing password. ..." />
+            <marker date="1534416335406" expanded="true" signature="35108:36012" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="35171:35261" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="35272:35897" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="35942:36005" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="36021:36267" ph=" Updates the internal state after a successful login. ..." />
+            <marker date="1534416335406" expanded="true" signature="36353:36960" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="36614:36731" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="36969:37119" ph=" Sends pre-login flow. This is required to emulate real device behavior. ..." />
+            <marker date="1534416335406" expanded="true" signature="37164:37887" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="37896:37966" ph=" Registers available Push channels during the login flow. ..." />
+            <marker date="1534416335406" expanded="true" signature="38015:39369" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="38246:38331" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38356:38400" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38475:38673" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38493:38562" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38587:38642" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38733:38803" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38828:38868" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="38904:38933" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="39096:39160" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="39185:39362" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="39203:39272" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="39297:39352" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="39378:40242" ph=" Sends login flow. This is required to emulate real device behavior. ..." />
+            <marker date="1534416335406" expanded="true" signature="40342:46471" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="40419:40547" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="40591:40759" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="40770:41694" ph="//..." />
+            <marker date="1534416335406" expanded="true" signature="41723:43363" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="42897:42965" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="43371:46196" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="43732:43912" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="43782:43897" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="43789:43896" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="43973:44243" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="44425:45376" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="45718:45839" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="46013:46186" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="46480:47084" ph=" Log out of Instagram. ..." />
+            <marker date="1534416335406" expanded="true" signature="47115:47761" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="47199:47226" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47250:47289" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47313:47332" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47356:47385" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47409:47429" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47457:47486" ph="..." />
+            <marker date="1534416335406" expanded="true" signature="47770:47966" ph=" Checks if a parameter is enabled in the given experiment. ..." />
+            <marker date="1534416335406" expanded="true" signature="48072:48260" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="48269:48456" ph=" Get a parameter value for the given experiment. ..." />
+            <marker date="1534416335406" expanded="true" signature="48560:48712" ph="{...}" />
+            <marker date="1534416335406" expanded="true" signature="48721:48997" ph=" Create a custom API request. ..." />
+            <marker date="1534416335406" expanded="true" signature="49042:49095" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/getStory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sessions/zloadmin/zloadmin-settings.dat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
