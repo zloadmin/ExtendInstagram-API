@@ -407,9 +407,9 @@ class ExtendInstagram extends Instagram
      * account needs two-factor login before letting you log in! Read the
      * two-factor login example to see how to handle that.
      *
-     * @param string $username           Your Instagram username.
-     * @param string $password           Your Instagram password.
-     * @param int    $appRefreshInterval How frequently `login()` should act
+     * @param string $username Your Instagram username.
+     * @param string $password Your Instagram password.
+     * @param int $appRefreshInterval How frequently `login()` should act
      *                                   like an Instagram app that's been
      *                                   closed and reopened and needs to
      *                                   "refresh its state", by asking for
@@ -422,26 +422,24 @@ class ExtendInstagram extends Instagram
      *                                   your delay is the BETTER. You may even
      *                                   want to set it to an even LOWER value
      *                                   than the default 30 minutes!
-     *
-     * @throws \InvalidArgumentException
-     * @throws \InstagramAPI\Exception\InstagramException
-     *
-     * @return \InstagramAPI\Response\LoginResponse|null A login response if a
-     *                                                   full (re-)login
-     *                                                   happens, otherwise
-     *                                                   `NULL` if an existing
-     *                                                   session is resumed.
+     * @param bool   $forceLogin         Force login to Instagram instead of
+     *                                   resuming previous session. Used
+     *                                   internally to do a new, full relogin
+     *                                   when we detect an expired/invalid
+     *                                   previous session.
+     * @return Response\LoginResponse|null
      */
     public function login(
         $username,
         $password,
-        $appRefreshInterval = 1800)
+        $appRefreshInterval = 1800,
+        $forceLogin = false)
     {
         if (empty($username) || empty($password)) {
             throw new \InvalidArgumentException('You must provide a username and password to login().');
         }
 
-        return $this->_login($username, $password, false, $appRefreshInterval);
+        return $this->_login($username, $password, $forceLogin, $appRefreshInterval);
     }
 
     /**
